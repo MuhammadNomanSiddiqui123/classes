@@ -1,0 +1,100 @@
+*{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.logo{
+    margin-left: 50px;
+    height: 60px;
+    width: 80px;
+    border: none;
+    border-radius: 100px;
+}
+.navbar{
+    padding: 20px;
+    border: none;
+    border-radius: 60px;
+    height: 80px;
+}
+#navbarNav a{
+    color: rgb(240, 226, 226);
+}
+#navbarNav a:hover{
+color: rgb(146, 234, 146);
+content: icon;
+}
+.nav-item{
+    margin-left: 30px !important;
+}
+.main3{
+      background-size: cover;
+    background-position: center;
+    padding: 20px 40px;
+    height: 700px;
+}
+.main{
+    /* margin-top: 50px; */
+    background-image: url(../IMAGES/back.jpg) ;
+    background-size: cover;
+    background-position: center;
+    padding: 20px 40px;
+    height: 600px;
+    color: white;
+}
+.heading{
+    margin-top: 50px;
+}
+.heading-h1{
+    font-size: 500px !important;
+}
+.navbar-nav{
+    margin-left: 250px;
+}
+/* .main2{
+    background-image: url(../images/img4.jpg) ;
+    background-size: cover;
+    background-position: center;
+    padding: 20px 40px;
+    height: 650px;
+    color: white;
+    width: 100%;
+
+} */
+  #btns{
+      background-color:rgba(12, 46, 85, 0.364);
+      border: none;
+      border-radius: 100px !important;
+  }
+  #btns:hover{
+     background-color:rgba(181, 211, 228, 0.6);
+  }
+  #images{
+    border: none;
+    border-radius: 500px;
+    height: 500px;
+  }
+  .card{
+    background-color:rgba(8, 31, 58, 0.364) !important;
+  }
+  .card:hover{
+ background-color:rgba(40, 111, 191, 0.364) !important;
+    transform: scale(1.1);
+  }
+  .pro{
+background-color: rgb(7, 7, 7);
+ padding: 50px;
+ height: 300px;
+ width: 100%;
+
+  }
+  #imagess{
+       border: none;
+    border-radius: 1000px !important;
+    height: 400px !important;
+    width: 500px !important;
+  }
+   #btnss{
+      background-color:rgba(0, 4, 7, 0.364);
+  }
+  #btnss:hover{
+     background-color:rgba(181, 211, 228, 0.6);
+  }
